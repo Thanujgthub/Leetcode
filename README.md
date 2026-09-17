@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thanujgthub/Leetcode2/tree/master/0001-two-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Thanujgthub/Leetcode2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Thanujgthub/Leetcode2/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Thanujgthub/Leetcode2/tree/master/0001-two-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Thanujgthub/Leetcode2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Thanujgthub/Leetcode2/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -21,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Thanujgthub/Leetcode2/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Thanujgthub/Leetcode2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Thanujgthub/Leetcode2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Thanujgthub/Leetcode2/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
