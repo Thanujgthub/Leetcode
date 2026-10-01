@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Thanujgthub/Leetcode2/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Thanujgthub/Leetcode2/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Thanujgthub/Leetcode2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Thanujgthub/Leetcode2/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Thanujgthub/Leetcode2/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Thanujgthub/Leetcode2/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Thanujgthub/Leetcode2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Thanujgthub/Leetcode2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Thanujgthub/Leetcode2/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Thanujgthub/Leetcode2/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Thanujgthub/Leetcode2/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Thanujgthub/Leetcode2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
