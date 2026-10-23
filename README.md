@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Thanujgthub/Leetcode2/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/Thanujgthub/Leetcode2/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Thanujgthub/Leetcode2/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Thanujgthub/Leetcode2/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Thanujgthub/Leetcode2/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Thanujgthub/Leetcode2/tree/master/0231-power-of-two) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Thanujgthub/Leetcode2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Thanujgthub/Leetcode2/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
