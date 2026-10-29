@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Thanujgthub/Leetcode2/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Thanujgthub/Leetcode2/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Thanujgthub/Leetcode2/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Thanujgthub/Leetcode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Thanujgthub/Leetcode2/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Thanujgthub/Leetcode2/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Thanujgthub/Leetcode2/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Thanujgthub/Leetcode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Thanujgthub/Leetcode2/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Thanujgthub/Leetcode2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Thanujgthub/Leetcode2/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Thanujgthub/Leetcode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Thanujgthub/Leetcode2/tree/master/0231-power-of-two) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Thanujgthub/Leetcode2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Thanujgthub/Leetcode2/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Thanujgthub/Leetcode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -148,14 +152,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Thanujgthub/Leetcode2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Thanujgthub/Leetcode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Thanujgthub/Leetcode2/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Thanujgthub/Leetcode2/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Thanujgthub/Leetcode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Thanujgthub/Leetcode2/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Thanujgthub/Leetcode2/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Thanujgthub/Leetcode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Thanujgthub/Leetcode2/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
